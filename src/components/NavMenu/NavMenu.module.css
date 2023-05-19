@@ -1,0 +1,27 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    border-right: 3px solid #0041a0;
+    flex-shrink: 0;
+}
+
+.navLink {
+    font-size: 20px;
+    display: flex;
+    font-weight: 600;
+    padding: 30px;
+    border-bottom: 3px solid #0041a0;
+    color: #0041a0;
+    text-decoration: none;
+}
+
+.navLink:hover {
+    background-color: rgba(153, 179, 216, 0.28);
+}
+
+.navLinkActive {
+    background-color: #0041a0;
+    color: white;
+    pointer-events: none;
+    cursor: default;
+}

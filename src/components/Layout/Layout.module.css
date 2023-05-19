@@ -1,0 +1,11 @@
+.root {
+    display: flex;
+    min-width: 100vw;
+    min-height: 100vh;
+    justify-content: space-between;
+}
+
+.content {
+    padding-left: 20px;
+    flex-grow: 1;
+}
