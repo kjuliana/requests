@@ -1,6 +1,8 @@
 # Тестовое задание
 React-приложение для отслеживания запросов
 
+https://requests-spa.vercel.app
+
 React · TypeScript
 
 ## Описание задания
