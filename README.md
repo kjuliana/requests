@@ -5,6 +5,7 @@ https://requests-spa.vercel.app
 
 React · TypeScript
 
+<!--
 ## Описание задания
 
 Реализовать SPA приложение:
@@ -27,6 +28,7 @@ React · TypeScript
 Использовать: React, TypeScript
 
 Не использовать: Bootstrap, State Manager
+-->
 
 ## Запуск проекта
 
