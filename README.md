@@ -1,11 +1,11 @@
 # Тестовое задание
 React-приложение для отслеживания запросов
 
+[Описание задания ➚](assets/task.png "Описание задания")
+
 https://requests-spa.vercel.app
 
 React · TypeScript
-
-!["Описание задания"](assets/task.png)
 
 ## Запуск проекта
 
