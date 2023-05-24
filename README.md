@@ -5,6 +5,8 @@ https://requests-spa.vercel.app
 
 React · TypeScript
 
+!["Описание задания"](assets/task.png)
+
 ## Запуск проекта
 
 - Установить зависимости
